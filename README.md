@@ -26,4 +26,4 @@ print(link)
 ### 結果
 執行程式後，你將會得到一個 HackMD 的筆記連結，該筆記包含所有問題答案。
 
-example: https://hackmd.io/@raiso/B1ItKAtrn
+example: https://hackmd.io/@raiso/SkT3CCYrh
