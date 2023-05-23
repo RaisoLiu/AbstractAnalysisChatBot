@@ -1,14 +1,14 @@
 # AbstractAnalysisChatBot
-AbstractAnalysisChatBot 是一個利用 AI 聊天機器人 (基於 OpenAI 的 GPT-3) 來分析學術論文摘要的工具，並自動生成分析結果的 HackMD 筆記。
+AbstractAnalysisChatBot 是一個利用 AI 聊天機器人 (基於 OpenAI 的 GPT-3.5) 來分析學術論文摘要的工具，並自動生成分析結果的 HackMD 筆記。
 
 ## 功能
 1. 自動提取論文的關鍵信息，包括：欲解決的問題、使用的方法、最終成果、關鍵字。
-2. 利用 GPT-3 機器人提供智能解析。
+2. 利用 GPT-3.5 機器人提供智能解析。
 3. 自動生成包含所有問題答案的 HackMD 筆記。
 
 ## 如何使用
 ### 安裝
-確保你的 Python 環境已經安裝了所有必要的依賴，如 OpenAI 的 GPT-3 SDK、PyHackMD SDK。
+確保你的 Python 環境已經安裝了所有必要的依賴，如 acheong08/ChatGPT、PyHackMD SDK。
 
 ### 使用
 ```python
